@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and coder
 -----------------
 
-I am a Student in Singapore. Currently studying in the School of Science and Technology, Singapore. Just a normal guy, with a normal life. Codes and games in free time, and tries to make viruses.
+I am a Student in Singapore. Currently studying in the School of Science and Technology, Singapore. Just a normal guy, with a normal life. Codes and games in free time, and tries to make viruses. Now moved on to Electronics, Trying not to blow stuff up.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [MyPortfolio](http://read.cv/emmanuelyee)
