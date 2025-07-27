@@ -7,7 +7,7 @@ Student and coder
 I am a Student in Singapore. Currently studying in the School of Science and Technology, Singapore. Just a normal guy, with a normal life. Codes and games in free time, and tries to make viruses. Now moved on to Electronics, Trying not to blow stuff up.
 
 * 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [MyPortfolio](http://read.cv/emmanuelyee)
+* 🖥️  See my portfolio at [MyPortfolio](http://emmanuel-nu.vercel.com)
 * ✉️  You can contact me at [PercyJackson@duck.com](mailto:PercyJackson@duck.com )
 * 🚀  I'm currently working on [New portfolio in markdown](http://portfolio-site-final.vercel.app)
 * 🧠  I'm learning javascript
