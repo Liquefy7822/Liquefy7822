@@ -8,7 +8,7 @@ I am a Student in Singapore. Currently studying in the School of Science and Tec
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [MyPortfolio](http://emmanuel-nu.vercel.com)
-* ✉️  You can contact me at [PercyJackson@duck.com](mailto:PercyJackson@duck.com )
+* ✉️  You can contact me at [pjowattpadfanfic@gmail.com](mailto:pjowattpadfanfic@gmail.com)
 * 🚀  I'm currently working on [New portfolio in markdown](http://portfolio-site-final.vercel.app)
 * 🧠  I'm learning javascript
 
